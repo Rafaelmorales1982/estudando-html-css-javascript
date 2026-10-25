@@ -1,0 +1,29 @@
+
+
+
+.section-one, .section-two {
+  box-sizing: border-box;
+}
+
+.section-one {
+  width: 200px;
+  height: 150px;
+  border: 5px solid black;
+  padding: 15px;
+  color: aliceblue;
+  margin: 20px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c8/Altja_j%C3%B5gi_Lahemaal.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original);
+  background-size: cover;
+  background-position: center center;
+}
+
+.section-two {
+  background: cyan;
+  width: 200px;
+  height: 150px;
+  padding: 15px;
+  margin: 30px;
+  border-style: solid;
+  border-color: brown;
+  border-bottom-color: blue;
+}
